@@ -73,7 +73,7 @@ input:focus~label,input:not(:placeholder-shown)~label{
 }
 .recover a{
     text-decoration:none;
-    color:rgb(125, 199, 221);
+    color:rgb(125,125,235);
 }
 .recover a:hover{
     color:blue;
@@ -86,7 +86,7 @@ input:focus~label,input:not(:placeholder-shown)~label{
     outline:none;
     border:none;
     width:100%;
-    background:rgb(125, 199, 221);
+    background:rgb(125,125,235);
     color:white;
     cursor:pointer;
     transition:0.9s;
