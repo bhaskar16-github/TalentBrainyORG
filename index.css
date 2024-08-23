@@ -17,6 +17,10 @@
     align-items: center;
     justify-content: space-between;
   }
+  
+.signInLink{
+  color: aqua;
+}  
 
   .navbar marquee{
     display: flex;

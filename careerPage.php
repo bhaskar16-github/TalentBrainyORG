@@ -34,22 +34,22 @@
         <marquee>Let's Enhance Your Skill</marquee>
       </a>
 
-      <a href="./index.php">Sign in </a>
+      <a href="./home.php">Sign in </a>
 
     </div>
     <div class="pagesList container-fluid" style="background-color: rgb(125, 199, 221);">
       <ul class="nav">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="./index.html">Home</a>
+            <a class="nav-link active" aria-current="page" href="./index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="./careerPage.html">career</a>
+            <a class="nav-link" href="./careerPage.php">career</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="./coursesPage.html">Courses</a>
+            <a class="nav-link" href="./coursesPage.php">Courses</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link " href="./aboutUs.html" aria-disabled="false">About Us</a>
+            <a class="nav-link " href="./aboutUs.php" aria-disabled="false">About Us</a>
           </li>
         </li>
       </ul>
@@ -101,7 +101,7 @@
             </div>
           </div>
         </body>
-        
+
       <footer>
         <p> &copy 2024 BhaskarManikanta_Magapu </p>
       </footer>
